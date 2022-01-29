@@ -96,7 +96,6 @@ diff
 ```
 cdk \
 --toolkit-stack-name cdk-toolkit-s3-with-ssm-datasync03-stack \
---parameters rolename=laap-role-data-gen-firehose-dev \
 --staging \
 --require-approval never \
 --progress events \
